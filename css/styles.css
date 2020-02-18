@@ -338,19 +338,19 @@ img {
   transform: scale(1.1);
 }
 
-.advantages__list-item.settings::before {
+.advantages__list-item.advantages__list-item--settings::before {
   background-image: url(../images/icons/settings.png);
 }
 
-.advantages__list-item.money-back::before {
+.advantages__list-item.advantages__list-item--money-back::before {
   background-image: url(../images/icons/money-back.png);
 }
 
-.advantages__list-item.worldwide::before {
+.advantages__list-item.advantages__list-item--worldwide::before {
   background-image: url(../images/icons/worldwide.png);
 }
 
-.advantages__list-item.compass::before {
+.advantages__list-item.advantages__list-item--compass::before {
   background-image: url(../images/icons/compass.png);
 }
 
